@@ -1,6 +1,6 @@
 # Amtrak-naive-prediction
 ## Usage analysis and comparision using naive prediction in R
-### Forecasting train ridership for the next 3 days based on previous weeks.
+### Forecasting train ridership for the next 3 years based on previous years.
 This project aims at being able to forecast and understand Amtrak train usage in 3 yaers. The projects uses `forecast` package to forecast the usage.
  
 ### Installation
